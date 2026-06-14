@@ -218,7 +218,7 @@ Obsidian plugin for AI-generated note refreshers
 [![GitHub](https://img.shields.io/badge/GitHub-tobocop2%2Fobsidian--lilbee-181717?logo=github)](https://github.com/tobocop2/obsidian-lilbee)
 [![Add Plugin](https://img.shields.io/badge/Obsidian-Add_Plugin-7c3aed?logo=obsidian)](https://obsidian.md/plugins?id=lilbee)
 
-A local AI search engine for your vault that runs its own models, so there is no Ollama to install. It indexes your notes, PDFs, code, and scans, crawls websites into your vault, and every answer cites the source line you click back to.
+A local AI search engine for your vault that runs its own models, so there is no Ollama to install, though you can point it at Ollama or LM Studio if you already manage models with them. It indexes your notes, PDFs, code, and scans, crawls websites into your vault, and every answer cites the source line you click back to.
 
 ***4** stars | Updated: 2026-06-14*
 
